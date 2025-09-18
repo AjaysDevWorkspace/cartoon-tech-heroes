@@ -77,7 +77,7 @@ git push
 
 ```txt
 ### ✨ Doraemon Gadget
-- **Gadget you like:**
+- **Gad
 - **What problem would you solve with it?**
 
 ### ✨ Pokémon
